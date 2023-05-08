@@ -1,0 +1,39 @@
+section {
+    display: flex;
+
+    font-size: 20px;
+    color: rgb(143, 194, 178);
+}
+
+.normal {
+    background-image: url(new\ 2\ .png);
+    background-position: center;
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    padding-left: 310px;
+
+}
+
+.fajlami {
+    display: flex;
+    background-image: url(top-bannar.png);
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+    padding-left: 15px;
+    margin: 40px 20px;
+    border-radius: 10px;
+}
+
+.basic-part {
+    display: flex;
+}
+
+.asheq {
+    width: 50%;
+}
+
+.regular {
+    border: 15px;
+    padding: 40px;
+    margin: 10px;
+}
